@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+    background: url('https://wallpapercave.com/wp/wp10387643.jpg') no-repeat center center fixed;
+    background-size: cover;
+    color: #fff;
+    text-align: center;
+}
+
+#container {
+    border: 2px solid black;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 50px auto;
+    max-width: 800px;
+    width: 90%;
+    background-color: rgba(38, 58, 69, 0.8);
+}
+
+p {
+    font-size: 16px;
+    color: white;
+    text-align: justify;
+}
